@@ -1,0 +1,5 @@
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\NetworksProject\Ali Team\Template\HTTPServer\bin\Release\HTTPServer.exe
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\NetworksProject\Ali Team\Template\HTTPServer\bin\Release\HTTPServer.pdb
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\NetworksProject\Ali Team\Template\HTTPServer\obj\x86\Release\HTTPServer.exe
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\NetworksProject\Ali Team\Template\HTTPServer\obj\x86\Release\HTTPServer.pdb
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\NetworksProject\Ali Team\Template\HTTPServer\obj\x86\Release\HTTPServer.csprojResolveAssemblyReference.cache
